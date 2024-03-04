@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cd_p4.xsl"?>
+
+
+
+<CDS>
+    <cd>
+        <TituloAlbum>Quevedo: Donde Quiero Estar</TituloAlbum>
+        <Artista>Quevedo</Artista>
+        <Canciones>
+            <Cancion>
+                <Titulo>Ahora Que</Titulo>
+                <Tiempo>2:54</Tiempo>
+            </Cancion>
+            <Cancion>
+                <Titulo>Muñeca</Titulo>
+                <Tiempo>3:34</Tiempo>
+            </Cancion>
+            <Cancion>
+                <Titulo>Wanda</Titulo>
+                <Tiempo>3:01</Tiempo>
+            </Cancion>
+            <Cancion>
+                <Titulo>Yankee</Titulo>
+                <Tiempo>3:33</Tiempo>
+            </Cancion>
+            <Cancion>
+                <Titulo>Dame ft. Omar Montes</Titulo>
+                <Tiempo>4:02</Tiempo>
+            </Cancion>
+        </Canciones>
+        <SelloDiscografico>QUEVEDO</SelloDiscografico>
+        <AnioPublicacion>2023</AnioPublicacion>
+    </cd>
+    <cd>
+        <TituloAlbum>CD 2: Más Allá</TituloAlbum>
+        <Artista>Juan Pérez</Artista>
+        <Canciones>
+            <Cancion>
+                <Titulo>Más Allá del Horizonte</Titulo>
+                <Tiempo>3:30</Tiempo>
+            </Cancion>
+            <Cancion>
+                <Titulo>Viaje al Cielo</Titulo>
+                <Tiempo>4:15</Tiempo>
+            </Cancion>
+        </Canciones>
+        <SelloDiscografico>Sello 2</SelloDiscografico>
+        <AnioPublicacion>2002</AnioPublicacion>
+    </cd>
+    <cd>
+        <TituloAlbum>CD 3: En el Tiempo</TituloAlbum>
+        <Artista>María Rodríguez</Artista>
+        <Canciones>
+            <Cancion>
+                <Titulo>El Tiempo Vuela</Titulo>
+                <Tiempo>3:45</Tiempo>
+            </Cancion>
+            <Cancion>
+                <Titulo>Canciones del Amanecer</Titulo>
+                <Tiempo>4:20</Tiempo>
+            </Cancion>
+        </Canciones>
+        <SelloDiscografico>Sello 3</SelloDiscografico>
+        <AnioPublicacion>2003</AnioPublicacion>
+    </cd>
+    <cd>
+        <TituloAlbum>CD 4: Viaje Infinito</TituloAlbum>
+        <Artista>Carlos García</Artista>
+        <Canciones>
+            <Cancion>
+                <Titulo>Infinito en el Mar</Titulo>
+                <Tiempo>3:50</Tiempo>
+            </Cancion>
+            <Cancion>
+                <Titulo>Canciones del Viento</Titulo>
+                <Tiempo>4:30</Tiempo>
+            </Cancion>
+        </Canciones>
+        <SelloDiscografico>Sello 4</SelloDiscografico>
+        <AnioPublicacion>2004</AnioPublicacion>
+    </cd>
+    <cd>
+        <TituloAlbum>CD 5: Ecos del Silencio</TituloAlbum>
+        <Artista>Ana López</Artista>
+        <Canciones>
+            <Cancion>
+                <Titulo>Ecos del Silencio</Titulo>
+                <Tiempo>3:25</Tiempo>
+            </Cancion>
+            <Cancion>
+                <Titulo>Canciones del Alma</Titulo>
+                <Tiempo>4:05</Tiempo>
+            </Cancion>
+        </Canciones>
+        <SelloDiscografico>Sello 5</SelloDiscografico>
+        <AnioPublicacion>2005</AnioPublicacion>
+    </cd>
+    <cd>
+        <TituloAlbum>CD 6: Luz en la Oscuridad</TituloAlbum>
+        <Artista>Pedro Martínez</Artista>
+        <Canciones>
+            <Cancion>
+                <Titulo>Luz en la Oscuridad</Titulo>
+                <Tiempo>3:40</Tiempo>
+            </Cancion>
+            <Cancion>
+                <Titulo>Canciones de Esperanza</Titulo>
+                <Tiempo>4:10</Tiempo>
+            </Cancion>
+        </Canciones>
+        <SelloDiscografico>Sello 6</SelloDiscografico>
+        <AnioPublicacion>2006</AnioPublicacion>
+    </cd>
+    <cd>
+        <TituloAlbum>CD 7: Sueños de Libertad</TituloAlbum>
+        <Artista>Laura Torres</Artista>
+        <Canciones>
+            <Cancion>
+                <Titulo>Sueños de Libertad</Titulo>
+                <Tiempo>3:35</Tiempo>
+            </Cancion>
+            <Cancion>
+                <Titulo>Canciones de la Vida</Titulo>
+                <Tiempo>4:25</Tiempo>
+            </Cancion>
+        </Canciones>
+        <SelloDiscografico>Sello 7</SelloDiscografico>
+        <AnioPublicacion>2007</AnioPublicacion>
+    </cd>
+    <cd>
+        <TituloAlbum>CD 8: Ritmos del Corazón</TituloAlbum>
+        <Artista>Javier Sánchez</Artista>
+        <Canciones>
+            <Cancion>
+                <Titulo>Ritmos del Corazón</Titulo>
+                <Tiempo>3:55</Tiempo>
+            </Cancion>
+            <Cancion>
+                <Titulo>Canciones del Amor</Titulo>
+                <Tiempo>4:35</Tiempo>
+            </Cancion>
+        </Canciones>
+        <SelloDiscografico>Sello 8</SelloDiscografico>
+        <AnioPublicacion>2008</AnioPublicacion>
+    </cd>
+    <cd>
+        <TituloAlbum>CD 9: Melodías del Alba</TituloAlbum>
+        <Artista>Carmen García</Artista>
+        <Canciones>
+            <Cancion>
+                <Titulo>Melodías del Alba</Titulo>
+                <Tiempo>3:45</Tiempo>
+            </Cancion>
+            <Cancion>
+                <Titulo>Canciones de la Aurora</Titulo>
+                <Tiempo>4:05</Tiempo>
+            </Cancion>
+        </Canciones>
+        <SelloDiscografico>Sello 9</SelloDiscografico>
+        <AnioPublicacion>2009</AnioPublicacion>
+    </cd>
+    <cd>
+        <TituloAlbum>CD 10: Ecos del Mar</TituloAlbum>
+        <Artista>Ricardo López</Artista>
+        <Canciones>
+            <Cancion>
+                <Titulo>Ecos del Mar</Titulo>
+                <Tiempo>3:30</Tiempo>
+            </Cancion>
+            <Cancion>
+                <Titulo>Canciones del Océano</Titulo>
+                <Tiempo>4:10</Tiempo>
+            </Cancion>
+        </Canciones>
+        <SelloDiscografico>Sello 10</SelloDiscografico>
+        <AnioPublicacion>2010</AnioPublicacion>
+    </cd>
+
+</CDS>
