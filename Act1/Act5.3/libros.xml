@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="libros.xsl"?>
+
+<libreria>
+    <libro>
+        <titulo>Physics-based animation</titulo>
+        <autor>Kenny Erleben</autor>
+        <editor>Charles River Media</editor>
+        <isbn>978-1584503804</isbn>
+        <precio>50.06</precio>
+        <numPagina>150</numPagina>
+    </libro>
+    <libro>
+        <titulo>Principios de seguridad informática para usuarios</titulo>
+        <autor>Carlos Garre</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-998-8</isbn>
+        <precio>13.00</precio>
+        <numPagina>175</numPagina>
+    </libro>
+    <libro>
+        <titulo>Ejercicios complementarios de lógica digital</titulo>
+        <autor>Alberto Sánchez</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-703-8</isbn>
+        <precio>12.00</precio>
+        <numPagina>125</numPagina>
+    </libro>
+    <libro>
+        <titulo>El arte de la guerra</titulo>
+        <autor>Sun Tzu</autor>
+        <editor>Editorial Clásica</editor>
+        <isbn>978-1234567890</isbn>
+        <precio>7.66</precio>
+        <numPagina>180</numPagina>
+    </libro>
+    <libro>
+        <titulo>Cien años de soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <editor>Editorial Planeta</editor>
+        <isbn>978-2345678901</isbn>
+        <precio>7.39</precio>
+        <numPagina>190</numPagina>
+    </libro>
+    <libro>
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <editor>Editorial Cervantes</editor>
+        <isbn>978-3456789012</isbn>
+        <precio>9.99</precio>
+        <numPagina>160</numPagina>
+    </libro>
+<libro>
+    <titulo>El Secreto del Universo</titulo>
+    <autor>Carl Sagan</autor>
+    <editor>Editorial Galáctica</editor>
+    <isbn>978-1234567895</isbn>
+    <precio>10.50</precio>
+    <numPagina>350</numPagina>
+</libro>
+<libro>
+    <titulo>La Guía del Viajero Intergaláctico</titulo>
+    <autor>Douglas Adams</autor>
+    <editor>Editorial Viaje</editor>
+    <isbn>978-1234567896</isbn>
+    <precio>60.50</precio>
+    <numPagina>450</numPagina>
+</libro>
+<libro>
+    <titulo>La Odisea</titulo>
+    <autor>Homero</autor>
+    <editor>Editorial Clásica</editor>
+    <isbn>978-1234567893</isbn>
+    <precio>10.50</precio>
+    <numPagina>300</numPagina>
+</libro>
+<libro>
+    <titulo>Kiko rivera</titulo>
+    <autor>Kiko rivera</autor>
+    <editor>Editorial Mambo</editor>
+    <isbn>978-1234567894</isbn>
+    <precio>12.50</precio>
+    <numPagina>400</numPagina>
+</libro>
+</libreria>
