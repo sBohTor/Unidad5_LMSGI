@@ -13,8 +13,8 @@
                     </tr>
                     <xsl:for-each select="libreria/libro">
                     <xsl:sort select="precio" data-type="number" order="ascending"/>
-                        <xsl:variable name="totalLibros" select="count(libros/libro)" />
-                        <xsl:for-each select="libros/libro">
+                        <xsl:variable name="totalLibros" select="count(libreria/libro)" />
+                        <xsl:for-each select="libreria/libro">
                             <xsl:if test="position() = $totalLibros">
                                 <tr>
                                     <td>
