@@ -2,6 +2,7 @@
     <xsl:output method="text" />
     <xsl:template match="/">
         <xsl:for-each select="root/record">
+        <xsl:value-of select="id "/><xsl:text>, </xsl:text>
    <xsl:sort select="date/@when" data-type="text"
                 order="descending" />
    <xsl:value-of select="text" />
