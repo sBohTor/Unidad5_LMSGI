@@ -21,14 +21,14 @@
                 <div style="position: center; margin: auto; width: 50%;">
                     <table border="1">
                         <tr>
-                            <th colspan="3" class="tdSuperior">Datos</th>
-                            <th colspan="3" class="tdSuperior">Notas</th>
+                            <th colspan="2" class="tdSuperior">Datos</th>
+                            <th colspan="4" class="tdSuperior">Notas</th>
                         </tr>
                         <tr>
                             <th class="td">Nombre</th>
                             <th class="td">Apellidos</th>
-                            <th class="td">Cuestionarios</th>
                             <th class="td">Tareas</th>
+                            <th class="td">Cuestionarios</th>
                             <th class="td">Examen</th>
                             <th class="td">Final</th>
                         </tr>
@@ -43,8 +43,8 @@
         <tr>
             <td><xsl:value-of select="nombre"/></td>
             <td><xsl:value-of select="apellidos"/></td>
-            <td><xsl:value-of select="cuestionarios"/></td>
             <td><xsl:value-of select="tareas"/></td>
+            <td><xsl:value-of select="cuestionarios"/></td>
             <td><xsl:value-of select="examen"/></td>
             <td>
                 <xsl:choose>
